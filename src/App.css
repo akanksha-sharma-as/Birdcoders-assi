@@ -158,9 +158,9 @@ hr{
   /* border: 2px solid black; */
 }
 
-.hero-3 {
-  /* border: 2px solid red; */
-}
+/* .hero-3 {
+  border: 2px solid red;
+} */
 
 #info1-review{
   width: 100%;
@@ -519,9 +519,9 @@ hr{
   font-family: "Roboto", sans-serif;
 }
 
-.review{
-  /* border: 2px solid red; */
-}
+/* .review{
+  border: 2px solid red;
+} */
 
 #review-r{
   margin: 5vh;
@@ -577,9 +577,9 @@ hr{
   /* border: 2px solid black; */
 }
 
-.cta-btn{
-  /* border: 2px solid black; */
-}
+/* .cta-btn{
+  border: 2px solid black;
+} */
 
 .footer {
   width: 98.5vw;
@@ -616,9 +616,9 @@ hr{
   /* border: 2px solid yellow; */
 }
 
-.f-r-div{
-  /* border: 2px solid red; */
-}
+/* .f-r-div{
+  border: 2px solid red;
+} */
 
 .f-r-h{
   color: #918a81;
